@@ -3,7 +3,6 @@
 
 ## Project Title: Employees Attrtion  Analysis
 ---                          
-## Project
 
 ### Project Overview:
 ---              
