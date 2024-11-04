@@ -39,10 +39,10 @@ The primary source of this data is HR DATA.excel provided by LITA and this is an
 - SQL- Structure query language
    1.  for quering of data
    2. for relational database stores
-- Power BI-Power Business Intelligence[download Here](https://power-bi-desktop.en.microsoft.com)
-  1.for data cleaning under table View  to quickly sort and filter data columns for more focused data inspection.
-  2.table View under power bi allows you to see any need for calculated columns, measures or both which can be created within the context of the table.
-  3.report view for data analysis and visualization
+- Power BI-Power Business Intelligence[download Here](https://www.microsoft.com)
+  - for data cleaning under table View  to quickly sort and filter data columns for more focused data inspection.
+  - table View under power bi allows you to see any need for calculated columns, measures or both which can be created within the context of the table.
+   - report view for data analysis and visualization
 - Github account[Download Here](https://www.github.com)
   1. for portfolio building
 
