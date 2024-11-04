@@ -1,5 +1,22 @@
 # LITA_Class_Documentation
----                               
+---       
+
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and preparation](#data-cleaning-and-preparation)
+
+[Exporatory Data Analysis](#exporatory-data-analysis)
+
+[Data Analysis and Findings](#data-analysis-and-findings)
+
+[Data Visualization](#data-visualization)
+
+
+
 
 ## Project Title: Employees Attrtion  Analysis
 ---                          
@@ -63,7 +80,7 @@ To answer the above questions the following steps were taken:
 
 
 
-### Data Analysis / findings
+### Data Analysis and Findings
 ---
  This is where i included some basic lines of code/ queries or even some of the DAX expression used during analysis;
  In the analysis of the data given the following was found
