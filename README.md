@@ -2,7 +2,8 @@
 ---                               
 
 ## Project Title: Employees Attrtion  Analysis
----                                         
+---                          
+## Project
 
 ### Project Overview:
 ---              
@@ -99,11 +100,16 @@ There are three department in organisation whose data is been analysed
 - Research and development (R&D)
 - Human Resourses (HR)
 - Sales
-  The visual below explicitely shows the hreakdown of the employee turnover in the organistation in relation to department amongst other parameters.
+  
+  The visual below explicitely shows the breakdown of the employee turnover in the organistation in relation to department amongst other parameters.
+  
   1. R & D has a total of 133 employee involved with 56.12%
   2. HR has 5,06% which is equal to 12 employees
   3. Sales department has 92 employees involved with  38.82%
-     the above is the percentage from each department which is summed up to make a Total of the entire 16% total attrition rate in the company. 
+     
+  The above is the percentage from each department which is summed up to make a Total of the entire 16% total attrition rate in the company.
+
+     
 
 
 ![HR DATA ANALYSIS AND ATTRITION TREND](https://github.com/user-attachments/assets/b003b67c-dffd-4aaf-a497-43b0f16d3412)
@@ -111,24 +117,30 @@ There are three department in organisation whose data is been analysed
 
 
 
+
+
 The below visualization depicts the Education field with the highest attriction rate in relation to age band and gender
-|Educational field|Total Employees|Attrition Count|Current employees|Aattrition Rate|Gender Involvement|Age Band|
-|-----------------|---------------|---------------|-----------------|---------------|------------------|
-|Human Resourses|27|7|20|26%|4 Male 3 Female| age 45-54 and age 55 above not involved|
-|---------------|--|-|--|---|---------------|
-|Life Sciences|606|89|517|15%|51male and 38 female| all age band involved|
-|-------------|---|--|---|---|--------------------|----------------------|
-|Marketing|159|35|124|22%|all 35 Male|
-|---------|---|--|---|---|-----------|
-|Medical|464|63|401|14%|
-|-------|---|--|---|---|
-|Technical Degree|132|32|100|24%|-|all age group involed|
-|-----------------|---------------|---------------|-----------------|---------------|------------------|
-|Other|82|11|72|13%|-|None from age 55above|
-|-----------------|---------------|---------------|-----------------|---------------|------------------|
-  Thus Human resources have the highest attrition rate.
+
+
+|Educational field|Total Employees|Attrition Count|Current employees|Attrition Rate |Gender Involvement|Age Band        |
+|-----------------|---------------|---------------|-----------------|---------------|------------------|----------------|
+|Human Resourses  |27             |7              |20               |26%            |4 Male 3Female    |All except 45years & above|
+|Life Sciences    |606            |89             |517              |15%            |51 male & 38Female| All            |
+|Marketing        |159            |35             |124              |22%            |35 Male           | All            |
+|Medical          |464            |63             |401              |14%            |44 Male 19 Female | All            |
+|Technical Degree |132            |32             |100              |24%            |22 Male 10 Femal  | All            |
+|Other            |82             |11             |72               |13%            |10 Male 1 Female  |Except 55above  |
+
+
+
+The field with the highest attrition rate is human resources that is 26% with age band within 45 years and above
+followed by those with technical degree with 24% attrition rate here all band is included.
+this is showed in the visual below
+
 
 ![HR DATA ANALYSIS RATE FOR HUMAN RESOURSES](https://github.com/user-attachments/assets/a67c4216-50c9-49fd-a0ab-3049e75a659c)
+
+
 
 
 
@@ -136,7 +148,11 @@ The below visualization depicts the Education field with the highest attriction 
 
 
 
+
+
 ![MAP OF NIGERIA SHOWING DIFFERENT STATES](https://github.com/user-attachments/assets/d7e22830-b6ce-45db-ace6-70d55c669363)
+
+
 
 
 ![INTERNATIONAL BREWERY SALES ANALYSIS](https://github.com/user-attachments/assets/a5f1b4ce-8187-4da7-b30b-a573f127b75f)
