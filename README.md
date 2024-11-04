@@ -66,7 +66,7 @@ To answer the above questions the following steps were taken:
 
 ### Data Analysis / findings
 ---
- This is where we include some basic lines of code/ queries or even some of the DAX expression used during analysis;
+ This is where i included some basic lines of code/ queries or even some of the DAX expression used during analysis;
  In the analysis of the data given the following was found
 
 - The total number of employees is 1470
@@ -79,23 +79,18 @@ To answer the above questions the following steps were taken:
 
 - Attrition rate is 16%
 - Attrition by Age-band
-   1. Under 25 total attRITION COUNT 38 employees
-   2. 25-34 Total attrition count 112 employees
-   3. 35-44 Total attrition count is 51 employees
-   4. 45-54 Total attrition count is 25 employees
-   5. 55 and above attrition count is 11 employees
+   1. Under 25 total Attrition count is 38 Employees
+   2. 25-34 Total attrition count is 112 Employees
+   3. 35-44 Total attrition count is 51 Employees
+   4. 45-54 Total attrition count is 25 Employees
+   5. 55 and above attrition count is 11 Employees
  
-- Attrition rate per department
-   1.
-      
-
-
-
-
+   The age band with the highest attrition rate is age-band 25-34
+ 
 
 ### Data Visualization
 
-
+- Attrition per department
 There are three department in organisation whose data is been analysed 
 - Research and development (R&D)
 - Human Resourses (HR)
@@ -106,13 +101,18 @@ There are three department in organisation whose data is been analysed
   1. R & D has a total of 133 employee involved with 56.12%
   2. HR has 5,06% which is equal to 12 employees
   3. Sales department has 92 employees involved with  38.82%
+    among the three Reseach and development contributed 56.12% of attrition ie employee turnover.
      
-  The above is the percentage from each department which is summed up to make a Total of the entire 16% total attrition rate in the company.
+  The above is the percentage from each department which is summed up to make a Total of the entire 16% total attrition rate  being experience in the company.
 
      
 
 
 ![HR DATA ANALYSIS AND ATTRITION TREND](https://github.com/user-attachments/assets/b003b67c-dffd-4aaf-a497-43b0f16d3412)
+
+
+
+
 
 
 
@@ -133,15 +133,24 @@ The below visualization depicts the Education field with the highest attriction 
 
 
 
-The field with the highest attrition rate is human resources that is 26% with age band within 45 years and above
+The field with the highest attrition rate is human resources that is 26% with age band below 25, 25-
 followed by those with technical degree with 24% attrition rate here all band is included.
 this is showed in the visual below
+
+
+
+
+
 
 
 ![HR DATA ANALYSIS RATE FOR HUMAN RESOURSES](https://github.com/user-attachments/assets/a67c4216-50c9-49fd-a0ab-3049e75a659c)
 
 
 
+
+The column chat was us to represent different age group with their total number or employees which slows that the age band between 35-44 have the highest level of employees
+this perfect arrange of the age groups was gotten in absending order by creating a condition column as sorting the age  with interesting levels re-arrangement.
+the table chat shows the Job roles in which they most dissactisfied which is laboratory scientist followed by reaseach scientist
 
 
 ![HR TABLE ANALYSIS AND COMPUTATION](https://github.com/user-attachments/assets/7033258f-8f2d-4d32-b904-5dc61f422f9b)
