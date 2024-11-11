@@ -107,19 +107,19 @@ To answer the above questions the following steps were taken:
 ### Data Visualization
 
 - Attrition per department
-There are three department in organisation whose data is been analysed 
-- Research and development (R&D)
+There are three department in the organisation whose data is been analysed 
+- Research and Development (R&D)
 - Human Resourses (HR)
 - Sales
   
-  The visual below explicitely shows the breakdown of the employee turnover in the organistation in relation to department amongst other parameters.
+  The visual below explicitly shows the breakdown of the employees turnover in the organistation in relation to department amongst other parameters.
   
-  1. R & D has a total of 133 employee involved with 56.12%
+  1. R & D has a total of 133 employees equivalent to  56.12% contribution
   2. HR has 5,06% which is equal to 12 employees
-  3. Sales department has 92 employees involved with  38.82%
-    among the three Reseach and development contributed 56.12% of attrition ie employee turnover.
+  3. Sales department has 92 employees involved amounting to  38.82% contribution.
+    among the three departments, Reseach and development contributed 56.12% of attrition ie employees' turnover.
      
-  The above is the percentage from each department which is summed up to make a Total of the entire 16% total attrition rate  being experience in the company.
+  The above is the percentage from each department which is summed up to make a Total of the entire 16% total attrition rate in the company.
 
      
 
@@ -135,7 +135,7 @@ There are three department in organisation whose data is been analysed
 
 
 
-The below visualization depicts the Education field with the highest attriction rate in relation to age band and gender
+The below table depicts the Education field with the highest attrition rate in relation to age band and gender
 
 
 |Educational field|Total Employees|Attrition Count|Current employees|Attrition Rate |Gender Involvement|Age Band        |
@@ -149,9 +149,9 @@ The below visualization depicts the Education field with the highest attriction 
 
 
 
-The field with the highest attrition rate is human resources that is 26% with age band below 25, 25-
-followed by those with technical degree with 24% attrition rate here all band is included.
-this is showed in the visual below
+The Educational field with the highest attrition rate is human resources that is 26% with age band below 25, 25-
+followed by those with technical degree with 24% attrition rate; here all age band are involved.
+this is as showed in the visualization below:
 
 
 
@@ -165,8 +165,8 @@ this is showed in the visual below
 
 
 The column chat was us to represent different age group with their total number or employees which slows that the age band between 35-44 have the highest level of employees
-this perfect arrange of the age groups was gotten in absending order by creating a condition column as sorting the age  with interesting levels re-arrangement.
-the table chat shows the Job roles in which they most dissactisfied which is laboratory scientist followed by reaseach scientist
+this perfect arrange of the age groups was gotten in absending order by creating a condition column as sorting the age  with ascending levels, re-arrangement.
+Thus the table chat below shows the Job roles in which they most dissactisfied which is laboratory scientist followed by reaseach scientist
 
 
 ![HR TABLE ANALYSIS AND COMPUTATION](https://github.com/user-attachments/assets/7033258f-8f2d-4d32-b904-5dc61f422f9b)
