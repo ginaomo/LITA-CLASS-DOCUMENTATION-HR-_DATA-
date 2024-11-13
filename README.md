@@ -144,14 +144,14 @@ The below table depicts the Education field with the highest attrition rate in r
 |Life Sciences    |606            |89             |517              |15%            |51 male & 38Female| All            |
 |Marketing        |159            |35             |124              |22%            |35 Male           | All            |
 |Medical          |464            |63             |401              |14%            |44 Male 19 Female | All            |
-|Technical Degree |132            |32             |100              |24%            |22 Male 10 Femal  | All            |
+|Technical Degree |132            |32             |100              |24%            |22 Male 10 Female | All            |
 |Other            |82             |11             |72               |13%            |10 Male 1 Female  |Except 55above  |
 
 
 
-The Educational field with the highest attrition rate is human resources that is 26% with age band below 25, 25-
-followed by those with technical degree with 24% attrition rate; here all age band are involved.
-this is as showed in the visualization below:
+The Educational field with the highest attrition rate is human resources that is 26% with age band below 25, 25-34 and 35-44
+followed by those having technical degree with 24% attrition rate; here all age band are involved.
+this is as showed in the visualization.
 
 
 
