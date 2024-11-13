@@ -151,7 +151,7 @@ The below table depicts the Education field with the highest attrition rate in r
 
 The Educational field with the highest attrition rate is human resources that is 26% with age band below 25, 25-34 and 35-44
 followed by those having technical degree with 24% attrition rate; here all age band are involved.
-this is as showed in the visualization.
+this is as showed in the visualization below
 
 
 
