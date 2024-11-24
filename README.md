@@ -138,14 +138,14 @@ There are three department in the organisation whose data is been analysed
 The below table depicts the Education field with the highest attrition rate in relation to age band and gender
 
 
-|Educational field|Total Employees|Attrition Count|Current employees|Attrition Rate |Gender Involvement|Age Band        |
-|-----------------|---------------|---------------|-----------------|---------------|------------------|----------------|
-|Human Resourses  |27             |7              |20               |26%            |4 Male 3Female    |All except 45years & above|
-|Life Sciences    |606            |89             |517              |15%            |51 male & 38Female| All            |
-|Marketing        |159            |35             |124              |22%            |35 Male           | All            |
-|Medical          |464            |63             |401              |14%            |44 Male 19 Female | All            |
-|Technical Degree |132            |32             |100              |24%            |22 Male 10 Female | All            |
-|Other            |82             |11             |72               |13%            |10 Male 1 Female  |Except 55above  |
+|Educational Field|Total Employees|Attrition Count|Current Employees|Attrition Rate |Gender Involvement|Age Band        |
+|-----------------|---------------|---------------|-----------------|---------------|-------------------|----------------|
+|Human Resourses  |27             |7              |20               |26%            |4 Male 3Female     |All except 45years & above|
+|Life Sciences    |606            |89             |517              |15%            |51 male & 38 Female| All            |
+|Marketing        |159            |35             |124              |22%            |35 Male            | All            |
+|Medical          |464            |63             |401              |14%            |44 Male 19 Female  | All            |
+|Technical Degree |132            |32             |100              |24%            |22 Male 10 Female  | All            |
+|Other            |82             |11             |72               |13%            |10 Male 1 Female   |Except 55above  |
 
 
 
